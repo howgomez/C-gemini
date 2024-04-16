@@ -1,0 +1,10 @@
+C:\Users\sossa\source\repos\EmpleadoSalarios\EmpleadoSalarios\bin\Debug\EmpleadoSalarios.exe.config
+C:\Users\sossa\source\repos\EmpleadoSalarios\EmpleadoSalarios\bin\Debug\EmpleadoSalarios.exe
+C:\Users\sossa\source\repos\EmpleadoSalarios\EmpleadoSalarios\bin\Debug\EmpleadoSalarios.pdb
+C:\Users\sossa\source\repos\EmpleadoSalarios\EmpleadoSalarios\obj\Debug\EmpleadoSalarios.csprojAssemblyReference.cache
+C:\Users\sossa\source\repos\EmpleadoSalarios\EmpleadoSalarios\obj\Debug\EmpleadoSalarios.Properties.Resources.resources
+C:\Users\sossa\source\repos\EmpleadoSalarios\EmpleadoSalarios\obj\Debug\EmpleadoSalarios.csproj.GenerateResource.cache
+C:\Users\sossa\source\repos\EmpleadoSalarios\EmpleadoSalarios\obj\Debug\EmpleadoSalarios.csproj.CoreCompileInputs.cache
+C:\Users\sossa\source\repos\EmpleadoSalarios\EmpleadoSalarios\obj\Debug\EmpleadoSalarios.exe
+C:\Users\sossa\source\repos\EmpleadoSalarios\EmpleadoSalarios\obj\Debug\EmpleadoSalarios.pdb
+C:\Users\sossa\source\repos\EmpleadoSalarios\EmpleadoSalarios\obj\Debug\EmpleadoSalarios.Vista.resources

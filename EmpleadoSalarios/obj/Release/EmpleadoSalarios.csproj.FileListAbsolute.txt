@@ -1,0 +1,10 @@
+C:\Users\G M Z R O S I E\Desktop\EmpleadoSalarios\EmpleadoSalarios\bin\Release\EmpleadoSalarios.exe.config
+C:\Users\G M Z R O S I E\Desktop\EmpleadoSalarios\EmpleadoSalarios\bin\Release\EmpleadoSalarios.exe
+C:\Users\G M Z R O S I E\Desktop\EmpleadoSalarios\EmpleadoSalarios\bin\Release\EmpleadoSalarios.pdb
+C:\Users\G M Z R O S I E\Desktop\EmpleadoSalarios\EmpleadoSalarios\obj\Release\EmpleadoSalarios.Vista.resources
+C:\Users\G M Z R O S I E\Desktop\EmpleadoSalarios\EmpleadoSalarios\obj\Release\EmpleadoSalarios.Properties.Resources.resources
+C:\Users\G M Z R O S I E\Desktop\EmpleadoSalarios\EmpleadoSalarios\obj\Release\EmpleadoSalarios.csproj.GenerateResource.cache
+C:\Users\G M Z R O S I E\Desktop\EmpleadoSalarios\EmpleadoSalarios\obj\Release\EmpleadoSalarios.csproj.CoreCompileInputs.cache
+C:\Users\G M Z R O S I E\Desktop\EmpleadoSalarios\EmpleadoSalarios\obj\Release\EmpleadoSalarios.exe
+C:\Users\G M Z R O S I E\Desktop\EmpleadoSalarios\EmpleadoSalarios\obj\Release\EmpleadoSalarios.pdb
+C:\Users\G M Z R O S I E\Desktop\EmpleadoSalarios\EmpleadoSalarios\obj\Release\EmpleadoSalarios.csprojAssemblyReference.cache
